@@ -28,11 +28,11 @@
 </div>
 
 <div style="margin-bottom:100px">
-    <img width="400" src="https://github.com/Dannyolly/dan-vue/blob/master/gif/2.png?raw=true" >
+    <img width="400" src="https://github.com/Dannyolly/dan-vue/blob/master/gif/7.png?raw=true" >
 </div>
 
 <div style="margin-bottom:100px">
-    <img width="400" src="https://github.com/Dannyolly/dan-vue/blob/master/gif/5.png?raw=true" >
+    <img width="400" src="https://github.com/Dannyolly/dan-vue/blob/master/gif/8.png?raw=true" >
 </div>
 
 <div style="margin-bottom:100px">
